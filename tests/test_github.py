@@ -1,5 +1,4 @@
-from selene import browser, be
-from selene.support import by
+from selene import browser, be, by
 from selene.support.shared.jquery_style import s
 
 
